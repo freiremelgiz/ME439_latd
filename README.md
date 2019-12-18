@@ -47,7 +47,7 @@ catkin_make
 * **Rebecca Roembke** - <rroembke@wisc.edu>
 * **Wanyue Xu**       - <wxu97@wisc.edu>
 
-<img src="https://github.com/freiremelgiz/ME439_latd/blob/master/resources/UW_Madison_Logo.png" height="150" width="350">
+<img src="https://github.com/freiremelgiz/ME439_latd/blob/master/resources/UW_Madison_Logo.png" height="200" width="350">
 
 ## Acknowledgments
 
