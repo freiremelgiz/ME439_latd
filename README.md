@@ -6,7 +6,11 @@ A lidar (Light Detection and Ranging) device is a laser sensor that can collect 
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
+### ROS Distributed Systems Features
+
+To enable ROS Distributed Systems Features, set your environment variables as shown in the image below.
+
+![Image of ROS DIST SYS](https://github.com/freiremelgiz/ME439_latd/blob/master/resources/ROSDistSys.PNG)
 
 What things you need to install the software and how to install them
 
