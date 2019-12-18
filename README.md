@@ -6,7 +6,7 @@ A lidar (Light Detection and Ranging) device is a laser sensor that can collect 
 
 This project was designed with 4 stages. This package has functionality up until Stage 3 (experimental).
 
-![Image of LATD STAGES](https://github.com/freiremelgiz/ME439_latd/blob/master/resources/Stages.PNG)
+[![Image of LATD STAGES](https://github.com/freiremelgiz/ME439_latd/blob/master/resources/Stages.PNG)](#)
 
 
 ## Project Features
@@ -14,7 +14,7 @@ This project was designed with 4 stages. This package has functionality up until
 
 To enable ROS Distributed Systems Features, set your environment variables as shown in the image below.
 
-![Image of ROS DIST SYS](https://github.com/freiremelgiz/ME439_latd/blob/master/resources/ROSDistSys.PNG)
+[![Image of ROS DIST SYS](https://github.com/freiremelgiz/ME439_latd/blob/master/resources/ROSDistSys.PNG)](#)
 
 
 On a ROS environment, set these variables with:
