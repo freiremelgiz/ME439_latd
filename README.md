@@ -47,8 +47,6 @@ catkin_make
 * **Rebecca Roembke** - <rroembke@wisc.edu>
 * **Wanyue Xu**       - <wxu97@wisc.edu>
 
-![Image of UW-Madison Crest](https://github.com/freiremelgiz/ME439_latd/blob/master/resources/UW_Madison_Logo.png =100x100)
-
 ## Acknowledgments
 
 * Josh Tabor
