@@ -1,0 +1,13 @@
+<launch>
+	<machine
+		name="robot"
+		address="10.140.41.194"
+		default="false"
+		env-loader="/home/pi/ME439/catkin_project/devel/remote_env_loader.sh"
+		user="pi"
+		password="raspberry17"
+	/>
+
+	<node pkg="latd" type="key_teleop.py" name="keyboard"/>
+	<node pkg="latd" type="driver.py" name="driver" machine="robot" launch-prefix="sudo"/>
+</launch>

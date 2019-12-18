@@ -1,0 +1,8 @@
+<launch>
+	<!--node pkg="latd" type="key_teleop.py" name="keyboard"-->
+	<node pkg="latd" type="scan_framer.py" name="scan_framer"/>
+	<node pkg="tf" type="static_transform_publisher" name="tf_world_to_lidar" args="0 0 0 1.570796 0 0 robot laser 100"/>
+	<node name='rviz' pkg="rviz" type="rviz" args="-d $(find latd)/rviz/st3.rviz"/>
+	<node pkg="latd" type="robot_frame_broadcaster.py" name="robot_frame_broadcaster"/>
+
+</launch>

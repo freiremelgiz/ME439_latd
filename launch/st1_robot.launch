@@ -1,0 +1,3 @@
+<launch>
+	<node pkg="latd" type="driver.py" name="driver"/>
+</launch>
