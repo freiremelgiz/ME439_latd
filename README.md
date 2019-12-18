@@ -52,9 +52,9 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Victor Freire** - [mailto](mailto:freiremelgiz@wisc.edu)
-* **Rebecca Roembke** - [mailto](mailto:rroembke@wisc.edu)
-* **Wanyue Xu** - [mailto](mailto:wxu97@wisc.edu)
+* **Victor Freire**   - <freiremelgiz@wisc.edu>
+* **Rebecca Roembke** - <rroembke@wisc.edu>
+* **Wanyue Xu**       - <wxu97@wisc.edu>
 
 
 ## Acknowledgments
