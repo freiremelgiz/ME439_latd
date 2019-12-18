@@ -17,6 +17,13 @@ To enable ROS Distributed Systems Features, set your environment variables as sh
 ![Image of ROS DIST SYS](https://github.com/freiremelgiz/ME439_latd/blob/master/resources/ROSDistSys.PNG)
 
 
+On a ROS environment, set these variables with:
+```
+export ROS_MASTER_URI=http://10.141.149.10:11311
+export ROS_IP=10.141.32.234
+```
+
+
 ### SICK lidar driver (tim_5xx)
 
 The ROS package sick_tim developed by SICK AG has no PCL dependencies and can be run on Debian (Raspberry Pi)
