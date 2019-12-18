@@ -2,20 +2,26 @@
 
 A lidar (Light Detection and Ranging) device is a laser sensor that can collect distances to objects in a 2D plane at a high rate. Traditionally, these devices have been used in autonomous robots to sense the environment and avoid obstacles. Our team was interested in exploring how these devices can help humans driving robots. We used a SICK lidar to map out the terrain in front of the robot in real time.  Then, we used this 2D map to drive the robot and avoid obstacles. A laptop keyboard is the controller to drive the robot. Data from the Lidar is streamed over network and plotted in Rviz in real time.
 
-## Project overview
+## Project Overview
 
 This project was designed with 4 stages. This package has functionality up until Stage 3 (experimental).
 
 ![Image of LATD STAGES](https://github.com/freiremelgiz/ME439_latd/blob/master/resources/Stages.PNG)
 
 
+## Project Features
 ### ROS Distributed Systems Features
 
 To enable ROS Distributed Systems Features, set your environment variables as shown in the image below.
 
 ![Image of ROS DIST SYS](https://github.com/freiremelgiz/ME439_latd/blob/master/resources/ROSDistSys.PNG)
 
-What things you need to install the software and how to install them
+
+### SICK lidar driver (tim_5xx)
+
+The ROS package sick_tim developed by SICK AG has no PCL dependencies and can be run on Debian (Raspberry Pi)
+https://github.com/uos/sick_tim
+
 
 ```
 Give examples
