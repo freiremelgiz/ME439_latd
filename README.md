@@ -52,4 +52,4 @@ catkin_make
 ## Acknowledgments
 
 * Josh Tabor
-* Professor Peter Adamczyk
+* Peter Adamczyk
